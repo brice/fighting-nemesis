@@ -5,4 +5,5 @@ Ici vous trouverez le texte lié àaux slides de la conférence Blend Web Mix.
 
 ## Links
 
-http://vimeo.com/102773707
+ * http://vimeo.com/102773707
+ * https://www.youtube.com/watch?v=fqewQDc6HtY
